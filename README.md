@@ -1,1 +1,1 @@
-# BowlingHeroPublic
+# 볼링히어로 공개용 스크립트 코드
